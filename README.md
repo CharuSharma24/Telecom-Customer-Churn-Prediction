@@ -17,8 +17,6 @@ Build a predictive model to identify customers at high risk of churn for a telec
 
 ## Constraints  
 
-### Computational Constraints  
-- **Time Limit**: Entire project completed in 4 days.  
 
 ### Data Constraints  
 - **Data Quality**: Includes missing values, outliers, and inconsistencies.  
